@@ -2,7 +2,7 @@
 
 Software: 
 - Pycharm IDE Professional (latest version and highly recommended)
-- Python 3 for environment 
+- Python(latest version) 
 
 Optional: Create a Virtual Environment
 To keep dependencies isolated, you can create a virtual environment by running:
